@@ -23,8 +23,6 @@ Creamos un entorno con python 3.11.1, e instalamos las dependencias necesarias.
     *   Ejecutar en la terminal:
     
     $ gcloud init
-    $ gcloud app deploy app.yaml --project "nombre proyecto en GCloud"
-
-    $ gcloud components update
+    $ gcloud app deploy app.yaml --project "EnelX"
 
 
