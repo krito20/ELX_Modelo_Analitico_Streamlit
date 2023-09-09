@@ -1,0 +1,1 @@
+Este es un ejercicio de despliegue de un modelo analítico en GCP con Streamlit y python
