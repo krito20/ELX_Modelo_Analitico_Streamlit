@@ -1,5 +1,5 @@
 # API_Gcloud_Streamlit
-Generaremos una aplicación que permite ejecutar un modelo de ML para generar las estimaciones a partir de una serie de criterios, el resultado del modelo de recomendación se puede ejecutar para 1 cliente o para muchos contenidos en un archivo. También se proyecta incluir un módulo para presentar un informe resumen del Customer Journey del cliente, como Análisis de las variables relacionadas en el proceso y lo pondremos en producción usando Streamlit y Google Cloud. El modelo permitirá recomendar la mayor probabilidad de compra de un producto en Enel X.
+Generaremos una aplicación que permite ejecutar un modelo de ML para generar las estimaciones a partir de una serie de criterios, el resultado del modelo de recomendación se puede ejecutar para 1 cliente o para muchos contenidos en un archivo. También se proyecta incluir un módulo para presentar un informe resumen del Customer Journey del cliente, como Análisis de las variables relacionadas en el proceso y lo pondremos en producción usando Streamlit y Google Cloud. El modelo permitirá recomendar la mayor probabilidad de compra de un producto en ELX.
 
 ##  1. Entrenamiento del modelo
 
